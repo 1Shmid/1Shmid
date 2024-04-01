@@ -30,7 +30,7 @@
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1Shmid&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1Shmid&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1shmid&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1Shmid&theme=github_dark" alt=""/>
 </div>
           
